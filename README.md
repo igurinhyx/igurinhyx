@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/igurinhyx/igurinhyx/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&custom_title=Minhas%20estat%C3%ADsticas:" height="150" alt="stats graph"  />
+
   <img src="https://raw.githubusercontent.com/igurinhyx/igurinhyx/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/igurinhyx/igurinhyx/activity-graph-output/activity-graph.svg?theme=react&custom_title=Minha%20contribui%C3%A7%C3%A3o%20em%20gr%C3%A1fico:%20&area=true&hide_border=false&radius=7" height="200" alt="activity-graph graph"  />
 </div>
