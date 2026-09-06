@@ -1,9 +1,7 @@
 <h1 data-importer="text" align="center">✮⋆˙✦. ── ‎‎Igor Cavalcanti ── .✦˙⋆✮</h1>
 
-<div data-importer="stats" align="right">
-  <img src="https://raw.githubusercontent.com/igurinhyx/igurinhyx/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
-</div>
 <div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/igurinhyx/igurinhyx/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://raw.githubusercontent.com/igurinhyx/igurinhyx/activity-graph-output/activity-graph.svg?theme=react&custom_title=Minha%20contribui%C3%A7%C3%A3o%20em%20gr%C3%A1fico:%20&area=true&hide_border=false&radius=7" height="200" alt="activity-graph graph"  />
 </div>
 
