@@ -1,4 +1,4 @@
-<h1 data-importer="text" align="left">✮⋆˙✦. ── ‎‎Igor Cavalcanti ── .✦˙⋆✮</h1>
+<h1 data-importer="text" align="center">✮⋆˙✦. ── ‎‎Igor Cavalcanti ── .✦˙⋆✮</h1>
 
 ###
 
